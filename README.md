@@ -9,11 +9,11 @@
 
 # ProtowareAI: Your All-Purpose Chatbot Companion
 
-ProtowareAI is an AI-powered chatbot that provides a wide range of functionalities to its users. With ProtowareAI, you can solve puzzles, create images, and engage in conversation on any topic you choose. Whether you're looking for help with a brain-teaser, want to generate custom graphics, or just need someone to talk to, ProtowareAI has got you covered.
+ProtowareAI is an AI-powered chatbot that provides a wide range of functionalities to its users, including puzzle-solving, image creation, conversational AI, and the unique ability to program code. With ProtowareAI, you can write and execute code directly within the chatbot's interface, making it a versatile tool for developers, students, and anyone looking to explore the world of programming.
 
-Designed with both fun and functionality in mind, ProtowareAI is an ideal tool for anyone looking to enhance their productivity, creativity, or simply pass the time with a stimulating chatbot. Its intuitive interface and advanced NLP capabilities make it easy to use and understand, while its ability to learn and adapt to user preferences ensures that every conversation is tailored to your needs.
+But that's not all! ProtowareAI also lets you solve brain-teasers, generate custom graphics, and engage in conversation on any topic you choose. Designed with both fun and functionality in mind, ProtowareAI is an ideal tool for anyone looking to enhance their productivity, creativity, or simply pass the time with a stimulating chatbot. Its intuitive interface and advanced NLP capabilities make it easy to use and understand, while its ability to learn and adapt to user preferences ensures that every conversation is tailored to your needs.
 
-Whether you're a student, professional, or simply looking for a fun and engaging chatbot experience, ProtowareAI is the perfect tool for exploring your creativity, solving puzzles, and engaging in meaningful conversation with an AI-powered friend.
+Whether you're a seasoned developer or just starting to learn how to code, ProtowareAI is the perfect tool for exploring your programming skills, solving puzzles, engaging in meaningful conversation, and even generating custom graphics. So why wait? Start chatting with ProtowareAI today and discover all the amazing things it can do for you!
 
 # Current status:
 
