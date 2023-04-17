@@ -94,7 +94,7 @@ Whether you're a seasoned developer or just starting to learn how to code, Proto
 
 # GPU memory usage (⚠️Not finished⚠️)
 
-| Foundation Model        | GPU Memory (MB) |
+| Foundation Model       | GPU Memory (MB) |
 |------------------------|-----------------|
 | Text2Image             | 4193            |
 | ImageEditing           | 4459            |
