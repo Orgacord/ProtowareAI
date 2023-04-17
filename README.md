@@ -15,7 +15,7 @@ But that's not all! ProtowareAI also lets you solve brain-teasers, generate cust
 
 Whether you're a seasoned developer or just starting to learn how to code, ProtowareAI is the perfect tool for exploring your programming skills, solving puzzles, engaging in meaningful conversation, and even generating custom graphics. So why wait? Start chatting with ProtowareAI today and discover all the amazing things it can do for you!
 
-# Current status:
+# Current status: ⚠️Not finished⚠️
 
 - [x] Customizable
 
