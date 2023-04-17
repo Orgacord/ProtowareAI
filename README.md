@@ -59,4 +59,58 @@ Whether you're a seasoned developer or just starting to learn how to code, Proto
 
 - [ ] Login Screen
 
-# Assistant Skills And Features
+# Assistant Features
+- Puzzle-solving
+
+- Image creation
+
+- Conversational AI
+
+- Code programming
+
+- Versatile tool for developers and students
+
+- Intuitive interface
+
+- Advanced NLP capabilities
+
+- Personalized conversations tailored to user preferences
+
+- Productivity-enhancing
+
+- Creativity-enhancing
+
+- Brain-teasers solving
+
+- Custom graphics generation
+
+# Installation
+
+- Clone the repository: git clone https://github.com/Orgacord/ProtowareAI.git
+
+- Install the required dependencies: pip install -r requirements.txt
+
+- Run the application: python main.py
+# Usage
+
+- Access the chatbot via the app's user interface
+
+- Choose from a range of functionalities, including puzzle-solving, image creation, conversational AI, and code programming
+
+- Enjoy personalized conversations tailored to your preferences and needs
+
+# Contributing
+
+- Fork the repository
+
+- Create a new branch: git checkout -b new-feature
+
+- Make your changes and commit them: git commit -m 'Add new feature'
+
+- Push to the branch: git push origin new-feature
+
+- Create a pull request
+
+# License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
