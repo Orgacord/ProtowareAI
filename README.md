@@ -1,2 +1,2 @@
-![Owl](owl.png)
+![Owl](ow.png)
 # ProtowareAI
