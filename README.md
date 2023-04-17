@@ -7,12 +7,45 @@
   </a>
 </p>
 #Current status:
+
 - [x] UI
+
 - [x] Dataset
-- [x] Neuronal Network
+
 - [X] NLP
+
 - [ ] Login
+
 - [ ] integrations
+
 - [ ] multilingualism
-- [ ] Cheese
+
+- [X] Error handling
+
+- [ ] Performance optimization
+
+- [ ] Security features
+
+- [ ] User feedback mechanism
+
+- [ ] Mobile responsiveness
+
+- [ ] Unit testing
+
+- [ ] Integration testing
+
+- [ ] User documentation
+
+- [ ] Technical documentation
+
+- [ ] Analytics and tracking features
+
+- [ ] Accessibility features
+
+- [ ] Social media sharing capabilities
+
+- [ ] Email notifications
+
+- [ ] Data visualization features
+
 # Assistant Skills And Features
