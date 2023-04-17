@@ -25,6 +25,8 @@ Whether you're a seasoned developer or just starting to learn how to code, Proto
 
 - [X] UI
 
+- [ ] Multi-platform
+
 - [ ] integrations
 
 - [ ] multilingualism
@@ -62,7 +64,13 @@ Whether you're a seasoned developer or just starting to learn how to code, Proto
 # Assistant Features
 - Puzzle-solving
 
+- Multi-platform
+
 - Image creation
+
+- Text-to-Speech
+
+- Customizable global shortcuts
 
 - Conversational AI
 
@@ -83,6 +91,14 @@ Whether you're a seasoned developer or just starting to learn how to code, Proto
 - Brain-teasers solving
 
 - Custom graphics generation
+
+# GPU memory usage (⚠️Not finished⚠️)
+
+| Foundation Model        | GPU Memory (MB) |
+|------------------------|-----------------|
+| Text2Image             | 4193            |
+| ImageEditing           | 4459            |
+| Image2Normal           | 0               |
 
 # Installation
 
