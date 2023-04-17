@@ -1,2 +1,2 @@
-![Hotpot](Hotpot.png)
+![Owl](Owl.png)
 # ProtowareAI
