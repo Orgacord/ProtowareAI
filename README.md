@@ -6,5 +6,13 @@
     <img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg">
   </a>
 </p>
-
+#Current status:
+- [x] UI
+- [x] Dataset
+- [x] Neuronal Network
+- [X] NLP
+- [ ] Login
+- [ ] integrations
+- [ ] multilingualism
+- [ ] Cheese
 # Assistant Skills And Features
